@@ -34,7 +34,6 @@ import { SkillStorico } from './components/SkillStorico.jsx';
 import { SkillFormazione } from './components/SkillFormazione.jsx';
 import { DesktopOnly, useIsMobile } from './components/DesktopOnly.jsx';
 import { GestioneDatiModal } from './components/GestioneDati.jsx';
-import ThemeSelector from './components/ThemeSelector.jsx';
 import { KpiPianificazione } from './components/KpiPianificazione.jsx';
 
 const customStyles = `
