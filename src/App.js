@@ -36,6 +36,8 @@ import { DesktopOnly, useIsMobile } from './components/DesktopOnly.jsx';
 import { GestioneDatiModal } from './components/GestioneDati.jsx';
 import { KpiPianificazione } from './components/KpiPianificazione.jsx';
 
+
+
 const customStyles = `
   .skills-table { border-collapse: separate; border-spacing: 3px; }
   .skills-table th, .skills-table td { min-width: 100px; max-width: 100px; width: 100px; text-align: center; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; border-radius: 6px; }
